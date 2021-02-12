@@ -1,6 +1,6 @@
 ### GloVe word vectors - embedding space
 
-This is an additional content to my upcoming master thesis. I am researching gender bias in word embeddings, and decided to create an example notebook, so that anyone can "play" with the embedding and get a sense of how it works. 
+This is an additional content to my upcoming master thesis. I am researching ethical use of word embeddings, and decided to create an example notebook, so that anyone who is interested can "play around" with the embedding and get a sense of how it works. 
 
 The text file containing the word vectors can be downloaded from https://www.kaggle.com/anindya2906/glove6b
 
